@@ -1,0 +1,28 @@
+body
+{
+	background-color: purple;
+	margin: 39px;
+	padding: 39px;
+}
+
+#gifs
+{
+
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+	width: 550px;
+	background-color: teal;
+
+}
+
+h1
+{
+	font-family: 'Oregano', cursive;
+}
+
+.color
+{
+	color: white;
+	font-size: 33px;
+}
